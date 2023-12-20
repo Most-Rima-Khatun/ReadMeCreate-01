@@ -38,8 +38,7 @@ Surround a block of text with lines starting with three backticks to make it a c
 
 x = (1 + sqrt(5)) / 2
 
-```<br>
-<br>
+```
 Optionally specify the language of the code after the backticks to highlight syntax<br>
 
 ``` python
