@@ -1,4 +1,4 @@
-#Formatting Text Spans<br>
+# Formatting Text Spans<br>
 <br>
 Surround text with a single asterisk or underscore for emphasis (italics)<br>
 <br>
