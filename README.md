@@ -103,7 +103,7 @@ Use space indentation to nest lists<br>
 
 1. The End of the Third Age<br>
 
-<h1> Headings</h1><br>
+# Headings<br>
 Start a line with one to six hashes then a space to make it a heading<br>
 
 # Constitution of the United States<br>
