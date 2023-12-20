@@ -139,3 +139,57 @@ Use square brackets containing link text followed by a reference number, then (u
 
 [1]: https://www.datacamp.com/podcast<br>
 <br>
+Use an exclamation mark followed by square brackets containing alt text followed by parentheses containing a URL or path to a file to include an image<br>
+
+![The Markdown logo](Markdown-mark.png)<br>
+<br>
+Use square brackets containing a caret then a number (both within the content and at the foot of the page) to create a footnote.<br>
+
+Literature is the original Internet – every footnote, every citation, every allusion is essentially a hyperlink to another text, to another mind.[^1]<br>
+
+[^1]: Attributed to Maria Popova<br>
+<br>
+# Tables<br>
+Use pipes to delimit columns in a table. Use hyphens to separate the header from the content. Use a colon to the left or right of those hyphens to indicate column alignment.<br>
+
+| Sepal Length| Sepal Width| Petal Length| Petal Width|      Species |<br>
+
+|-----------------:|----------------:|-----------------:|---------------:|:---------------|<br>
+
+|                 5.1|                3.3|                  1.7|              0.5|        setosa |<br>
+
+|                4.8|                3.0|                  1.4|              0.1|        setosa |<br>
+
+|                 6.1|                2.8|                 4.7|               1.2|   versicolor |<br>
+
+|                 6.1|                3.0|                 4.6|               1.4|  versicolor |<br>
+<br>
+# Breaks<br>
+Have a line with only three or more hyphens, asterisks, or underscores (plus optional spaces) to include a horizontal rule.<br>
+
+---<br>
+
+***<br>
+
+___<br>
+<br>
+By default, text on consecutive lines flows as a single line.<br>
+
+Writing one line,<br>
+
+then another without a break,<br>
+
+results in text flowing as a single line.<br>
+<br>
+Two spaces at the end of a line result in a line break.<br>
+
+Appending two spaces to the end of the line¶¶<br>
+
+creates a line break.<br>
+<br>
+Blank lines create a new paragraph.<br>
+
+Including a blank line in between two lines of text<br>
+
+creates a paragraph break.<br>
+<br>
