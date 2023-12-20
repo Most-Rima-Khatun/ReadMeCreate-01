@@ -18,5 +18,10 @@ Surround text with one of more backticks to make it code<br>
 Should I use `pandas` or `dplyr`?<br>
 <br>
 Surround text with one of more tildes to strike it through<br>
-
+<br>
 Every strike brings me ~closer to~ the next home run<br>
+Surround text with a single dollar sign to make it a LaTeX equation<br>
+<br>
+
+$e^{\pi i} + 1 = 0$<br>
+<br>
