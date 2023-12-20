@@ -102,8 +102,8 @@ Use space indentation to nest lists<br>
 1. The War of the Ring<br>
 
 1. The End of the Third Age<br>
-<br>
-# Headings<br>
+
+<h1> Headings</h1><br>
 Start a line with one to six hashes then a space to make it a heading<br>
 
 # Constitution of the United States<br>
