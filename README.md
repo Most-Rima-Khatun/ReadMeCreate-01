@@ -25,7 +25,7 @@ Surround text with a single dollar sign to make it a LaTeX equation<br>
 
 $e^{\pi i} + 1 = 0$<br>
 <br>
-## Formatting Text Blocks<br>
+# Formatting Text Blocks<br>
 Start a line with greater than then space to make it a quote<br>
 
 > Without data you're just<br>
@@ -48,7 +48,7 @@ x = (1 + sqrt(5)) / 2
 
 ```<br>
 <br>
-## Lists<br>
+# Lists<br>
 Start lines with hyphens, plus or asterisks then a space to make an unordered list<br>
 
 (Be consistent about which punctuation is used)<br>
@@ -105,7 +105,7 @@ Use space indentation to nest lists<br>
 
 1. The End of the Third Age<br>
 <br>
-## Headings<br>
+# Headings<br>
 Start a line with one to six hashes then a space to make it a heading<br>
 
 # Constitution of the United States<br>
@@ -128,7 +128,7 @@ Articles<br>
 
 --------<br>
 <br>
-## Links, Images and Footnotes<br>
+# Links, Images and Footnotes<br>
 Use square brackets containing link text followed by parentheses containing a URL to include a hyperlink<br>
 
 [Build data and AI skills with DataCamp](https://www.datacamp.com)<br>
