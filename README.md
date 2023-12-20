@@ -45,8 +45,7 @@ Optionally specify the language of the code after the backticks to highlight syn
 
 x = (1 + sqrt(5)) / 2
 
-```<br>
-<br>
+```
 # Lists<br>
 Start lines with hyphens, plus or asterisks then a space to make an unordered list<br>
 
