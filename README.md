@@ -25,3 +25,117 @@ Surround text with a single dollar sign to make it a LaTeX equation<br>
 
 $e^{\pi i} + 1 = 0$<br>
 <br>
+## Formatting Text Blocks<br>
+Start a line with greater than then space to make it a quote<br>
+
+> Without data you're just<br>
+
+> another person with an opinion<br>
+<br>
+Surround a block of text with lines starting with three backticks to make it a code block<br>
+
+```
+
+x = (1 + sqrt(5)) / 2
+
+```<br>
+<br>
+Optionally specify the language of the code after the backticks to highlight syntax<br>
+
+``` python
+
+x = (1 + sqrt(5)) / 2
+
+```<br>
+<br>
+## Lists<br>
+Start lines with hyphens, plus or asterisks then a space to make an unordered list<br>
+
+(Be consistent about which punctuation is used)<br>
+
+- bread<br>
+
+- milk<br>
+
+- eggs<br>
+
+- teabags<br>
+<br>
+Start lines with a number followed by a period then a space to make an ordered list.<br>
+
+(Numbering is automatic and follows from the first element.)<br>
+
+3. three<br>
+
+1. four<br>
+
+1. five<br>
+
+1. six<br>
+<br>
+Inside a list, include square brackets filled with a space or character (conventionally 'x') to create a checklist<br>
+
+- [x] bread<br>
+
+- [ ] milk<br>
+
+- [x] eggs<br>
+
+- [ ] teabags<br>
+<br>
+Use space indentation to nest lists<br>
+
+* The Lord of the Rings<br>
+
+1. The Fellowship of the Ring<br>
+
+1. The Ring Sets Out<br>
+
+1. The Ring Goes South<br>
+
+1. The Two Towers<br>
+
+1. The Treason of Isengard<br>
+
+1. The Ring Goes East<br>
+
+1. The Return of the King<br>
+
+1. The War of the Ring<br>
+
+1. The End of the Third Age<br>
+<br>
+## Headings<br>
+Start a line with one to six hashes then a space to make it a heading<br>
+
+# Constitution of the United States<br>
+
+## Articles<br>
+
+### Article I: The Legislative Branch<br>
+
+#### Section 1: The Legislature<br>
+<br>
+For level one headings, you can also follow the line with a line of equals signs<br>
+
+Constitution of the United States<br>
+
+=================================<br>
+<br>
+For level two headings, you can also follow the line with a line of hyphens<br>
+
+Articles<br>
+
+--------<br>
+<br>
+## Links, Images and Footnotes<br>
+Use square brackets containing link text followed by parentheses containing a URL to include a hyperlink<br>
+
+[Build data and AI skills with DataCamp](https://www.datacamp.com)<br>
+<br>
+Use square brackets containing link text followed by a reference number, then (usually at the bottom of the doc) square brackets containing the reference number followed by a colon then a space then a URL to include reference-style hyperlinks.<br>
+
+[Listen to DataFramed][1]<br>
+
+[1]: https://www.datacamp.com/podcast<br>
+<br>
